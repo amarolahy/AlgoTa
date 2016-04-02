@@ -10,16 +10,12 @@
 #define NB                   5
 #define BORNE_SUP           10
 
-void destroy(void *data){
-    free(data);
-}
-
 void listeChaine() {
 	printf("Liste chaine ! \n\n");
 
 	// Création de la liste 
 	List *lc = (List *)malloc(sizeof(*lc));
-	list_init(lc, destroy);
+	list_init(lc, free);
 	// printf("List cree avec succes.\n");
 
 
@@ -50,7 +46,7 @@ void listeChaine() {
 void listeDoubleChaine() {
 	//Création de la liste
 	DList *lc = (DList *)malloc(sizeof(*lc));
-	dlist_init(lc, destroy);
+	dlist_init(lc, free);
 	printf("Double_List crée avec succés.\n");
 
 
@@ -89,7 +85,7 @@ void listeDoubleChaine() {
 void listeCirculaire() {
 	CList *lc = (CList *)malloc(sizeof(*lc));
 
-	clist_init(lc, destroy);
+	clist_init(lc, free);
 
 	CListElmt *el;
 	clist_data(el);
