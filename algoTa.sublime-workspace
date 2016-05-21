@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"buto",
+				"button	Tag"
+			],
+			[
+				"hea",
+				"header〔function〕"
+			],
+			[
+				"getH",
+				"getXHTTPRequest〔function〕"
+			],
+			[
+				"ret",
+				"return	(Form1.cs)"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"font-we",
+				"font-weight: 〔property〕"
+			],
+			[
+				"even",
+				"event〔argument〕"
+			],
+			[
+				"row",
+				"div.row"
+			],
+			[
+				"isset",
+				"isset〔function〕"
+			],
+			[
+				"font-w",
+				"font-weight: 〔property〕"
+			],
+			[
+				"border-rad",
+				"border-radius: 〔property〕"
+			],
+			[
+				"border-ri",
+				"border-right: 〔property〕"
+			],
+			[
+				"repe",
+				"repeat-x〔value〕"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"jus",
+				"justify〔value〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"repea",
+				"background-repeat: 〔property〕"
+			],
+			[
+				"ur",
+				"url(〔value〕"
+			],
+			[
+				"background-ima",
+				"background-image: 〔property〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"dli",
+				"dlist_ins_next	(main.c)"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"in",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"html	",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax ngi",
+				"Set Syntax: nginx"
+			],
+			[
+				"setpasc",
+				"Set Syntax: Pascal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax javas	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Typedef"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dev/C/AlgoTa"
+	],
+	"file_history":
+	[
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1463686704/rpihome nginx/etc/nginx/nginx.conf",
+		"/C/Users/samuel/Desktop/67bd8878-1629-4ef0-8138-3819627cff6a.txt",
+		"/C/Users/samuel/Desktop/TutorialHtml5EventCalendar.Php.20160103/TutorialHtml5EventCalendar/media/layout.css",
+		"/C/Users/samuel/Desktop/TutorialHtml5EventCalendar.Php.20160103/TutorialHtml5EventCalendar/index.php",
+		"/C/Users/samuel/Desktop/TutorialHtml5EventCalendar.Php.20160103/TutorialHtml5EventCalendar/js/daypilot/daypilot-all.min.js",
+		"/C/Users/samuel/Desktop/crypto.cs",
+		"/D/Dev/Web/jsam/essai.php",
+		"/D/Download/FVUUVCOIH3OZRPP/seria_test.py",
+		"/C/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+		"/D/Download/Infocentre-2016-05-11/Infocentre/README.md",
+		"/C/Users/samuel/AppData/Local/Programs/Python/Python35/include/Python.h",
+		"/D/Dev/Web/jsam/index.php",
+		"/C/Users/samuel/Desktop/Projet2.0/Projet2.0/css/Nouveau document texte.txt",
+		"/D/Download/KMSAuto Net 2015 v1.3.9 Portable/readme/readme_fr.txt",
+		"/D/Download/Projet2.0.tar/Projet2.0/Projet2.0/PaxHeader/premi├¿repage.php",
+		"/D/Download/Projet2.0.tar/Projet2.0/Projet2.0/premi├¿repage.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461353136/rpihome/data/www/jsam/bootstrap.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461351650/rpihome/data/www/jsam/jQuery.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461351257/rpihome nginx/etc/nginx/nginx.conf",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461260498/rpihome/data/www/jsam/bootstrap.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461260250/rpihome scada/data/www/jsam/index.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1461261176/rpihome/etc/nginx/nginx.conf",
+		"/C/Users/samuel/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.min.css",
+		"/D/Download/bootstrap.js",
+		"/C/Users/samuel/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/D/Download/bootstrap.min.css",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460897309/rpihome/etc/webapps/phpmyadmin/config.inc.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460902422/rpihome/etc/php/php.ini",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460876830/rpihome/etc/nginx/nginx.conf.backup",
+		"/D/Dev/Web/jsam/test.html",
+		"/C/wamp64/alias/jsam.conf",
+		"/C/wamp64/.htaccess",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460876418/rpihome/etc/nginx/nginx.conf",
+		"/C/wamp64/alias/test.conf",
+		"/C/wamp64/www/jsam/tryCSS.html",
+		"/C/wamp64/www/jsam/index.html",
+		"/C/Users/samuel/AppData/Local/Temp/fz3temp-1/nginx.conf",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460887146/rpihome nginx/etc/nginx/fastcgi.conf",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460878472/rpihome scada/etc/php/php-fpm.conf",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460876916/rpihome/etc/nginx/mime.types",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460892159/rpihome/data/www/essai/index.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460892126/rpihome/data/www/essai/index.html",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460878062/rpihome/etc/php/php.ini",
+		"/D/Download/Learning-Curve-Pro-fontfacekit/web fonts/learningcurvepro_regular_macroman/stylesheet.css",
+		"/C/wamp64/www/jsam/test.html",
+		"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/rpihome",
+		"/C/wamp64/alias/phpmyadmin.conf",
+		"/C/Users/samuel/test.js",
+		"/C/wamp64/www/jsam/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/rpihome scada",
+		"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/rpihome nginx",
+		"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/rpihome essai",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460879656/rpihome/data/www/essai/index.html",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460878765/rpihome essai/data/www/essai/traitementFormulaire.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460879398/rpihome/data/www/essai/formulaire.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460879625/rpihome/data/www/essai/menu.php",
+		"/C/users/samuel/appdata/local/temp/sublime-sftp-browse-1460877574/rpihome/etc/hosts",
+		"/D/Samuel/Essai.csv",
+		"/C/FPC/3.0.0/bin/i386-win32/matrice.pas",
+		"/C/FPC/3.0.0/doc/fpc/readme.txt",
+		"/C/Program Files/Eclipse/eclipse/eclipse.ini",
+		"/C/Users/samuel/Desktop/sauvegardePartie.sud",
+		"/D/Download/FUN_MOOC_Philosophie et modes de vie/01.16_0_Présentation du cours/2014.01.16_2_Qu'est-ce que la philosophie.txt",
+		"/D/Download/FUN_MOOC_Philosophie et modes de vie/Plan_du_cours.txt",
+		"/D/Download/Adobe CC 2015 x64/_Crack/install.txt",
+		"/C/Users/samuel/Documents/Arduino_/libraries/readme.txt",
+		"/C/Users/samuel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Programmes/HTML/MSI3_TECH_WEB/hello_world.html",
+		"/D/Download/SublimeAllAutocomplete-master/all_views_completions.py",
+		"/D/Programmes/C/Algorithm/algoTa.sublime-project",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Download/SublimeAllAutocomplete-master/README.md",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/Download/sketch_jul03a/sketch_jul03a.ino"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/",
+			"\\",
+			"pdo_mysql",
+			"open_basedir",
+			"all file",
+			"auto complete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "algoTa.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
