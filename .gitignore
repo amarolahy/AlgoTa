@@ -1,6 +1,8 @@
 Algorithm.*
+algoTa*
 obj/
 Debug/
 bin/
 x64/
 .vs/
+test/
