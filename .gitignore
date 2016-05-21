@@ -1,0 +1,6 @@
+Algorithm.*
+obj/
+Debug/
+bin/
+x64/
+.vs/
