@@ -109,3 +109,6 @@ int list_rem_next(List *list, ListElmt *element, void **data){
     return 0 ;
 }
 
+int list_append(List *list, void *data){
+    return list_ins_next(list, list_tail(list), data);
+}

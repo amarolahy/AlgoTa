@@ -29,7 +29,7 @@ typedef List Queue;
 #define queue_init list_init
 
 /**
- * void queue_destroy(Queuee *queue);
+ * void queue_destroy(Queue *queue);
  * Destroys the queue specified by queue. No other operations are 
  * permitted after calling queue_destroy unless queue_init is called again. The
  * queue_destroy operation removes all elemts from a queue and calls the function

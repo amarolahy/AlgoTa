@@ -109,5 +109,13 @@ int list_rem_next(List *list, ListElmt *element, void **data);
 //ListElmt *list_next(const ListElmt *element);
 #define list_next(element)  ((element)->next)
 
+/**
+ * Add an element at the end of the list specified by list
+ * @param  list List in which we'll insert the element
+ * @param  data The data to insert.
+ * @return      0 if inserting the element is successful, or -1 otherwise
+ */
+int list_append(List *list, void *data);
+
 
 #endif // LINKEDLIST_H_INCLUDED
